@@ -21,3 +21,8 @@
 - [ ] copy-paste 图片支持
 - [ ] 样式有待改善
 - [ ] 是否兼容 draftjs 生态插件？ 
+
+
+------ 
+
+[draft-js 中文版](http://seejs.me/draft-js-cn/docs/gao-ji-yong-fa/v010-apiqian-yi.html)
