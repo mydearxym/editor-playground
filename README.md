@@ -28,3 +28,6 @@
 - [draft-js 中文版文档 1](http://seejs.me/draft-js-cn/docs/gao-ji-yong-fa/v010-apiqian-yi.html)
 - [draft-js 中文版文档 2](https://marxjiao.gitbooks.io/draft-js/content/quick-start/overview.html)
 - [draft-js 在知乎的实践](https://zhuanlan.zhihu.com/p/24951621)
+
+- [awesome-draft](https://github.com/nikgraf/awesome-draft-js)
+- [draft-js-plugins](https://github.com/draft-js-plugins/draft-js-plugins)
