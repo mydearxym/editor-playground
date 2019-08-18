@@ -1,5 +1,16 @@
 # editor-playground
 
+
+优秀编辑器:
+
+- [taskade](https://www.taskade.com)
+- [notion](https://www.notion.so/)
+
+ideas: 
+
+![image](https://user-images.githubusercontent.com/6184465/63219300-603cbf00-c1a1-11e9-8437-86e9694c54c4.png)
+
+
 ----
 
 #### [dante2](https://github.com/michelson/dante2)
